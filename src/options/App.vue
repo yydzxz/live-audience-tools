@@ -1,13 +1,11 @@
 <template>
-  <hello-world />
+  <div>作者正在搬砖~</div>
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-  name: 'App',
-  components: { HelloWorld }
+  name: 'App'
 }
 </script>
 
