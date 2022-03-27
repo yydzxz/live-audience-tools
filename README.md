@@ -1,24 +1,7 @@
-# zhibo-extension-vue-2
+### 安装扩展
+- 加载 dist 文件夹
+![image](./src/assets/安装1.png)
+![image](./src/assets/安装2.png)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 效果图
+![image](./src/assets/展示1.png)
